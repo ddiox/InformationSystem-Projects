@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FindStudio</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forgot">forgot password</string>
+    <string name="username">Username</string>
+    <string name="password">*****</string>
+    <string name="name">Name</string>
+    <string name="contact">Contact</string>
+    <string name="address">Address</string>
+    <string name="operational">Operational</string>
+    <string name="equipment">Equipment</string>
+    <string name="picture">Picture</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="welcome">Welcome</string>
+    <string name="description">Browse all Music Studios in Makassar City</string>
+
+</resources>
